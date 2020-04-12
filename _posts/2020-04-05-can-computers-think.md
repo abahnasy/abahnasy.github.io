@@ -5,7 +5,7 @@ subtitle: An attempt to answer....
 ---
 
 Generally, we have considered our ability to think as the elucidate difference between mankind and all other beings. Indeed, the thought has long been considered as the hallmark quality of a human. for centuries, Great minds have struggled to explain the nature and origin of knowledge. The rise of computers has added a layer of complexity to this great philosophical dilemma. At a time when computer technology is advancing at a breakneck pace and when software developers are glibly hawking their wares as having artificial intelligence, the inevitable question has begun to take on a certain necessity: Can a computer think? 
-before we determine whether or not computers are capable of thought, we must reveal the ambiguity that overshadows the word thought itself, especially the notion of consciousness and thought are mutually inclusive. once the word thought has thoroughly disambiguated, we could revisit the test formulated by Alan Turing used to test if computers think. Finally, we’ll discuss the structure of objection to Turing test and the effect it has on the essence of computer thinking?
+before we determine whether or not computers are capable of thought, we must reveal the ambiguity that overshadows the word thought itself, especially the notion of consciousness and thought are mutually inclusive. once the word thought has thoroughly disambiguated, we could revisit the test formulated by Alan Turing used to test if computers think. Finally, we’ll discuss the structure of objection to Turing test and the effect it has on the essence of computer thinking? [1]
 
 
 The process of defining thought is a must before attempting to answer the question of “Can Machines Think?”. It is commonly believed that only consciousness beings are capable only of thinking, and therefore computers - made of plastics and metals - could never achieve consciousness, and thus, could never achieve thought. This assumption is clearly false. It is widely accepted amongst psychologists, that we - as humans - are even most of our time in the state of subconscious mental activity. They believe that we are not consciously aware of all, or even most of our thought processes. Speech is one of the concepts that reinforce the notion of subconscious mental activity. We almost always find ourselves saying what we want to say without consciously choosing the words. When engaging in any form of conversation, we are not conscious of the thought processes that transform the sounds we hear into the meaning attached to the words that have been spoken. Many human mental activities, from understanding to the way we perceive and interpret the external world around us, can be performed in an unconsciousness state. Realizing that consciousness and thought are not mutually inclusive make us reformulate the question of Can Computer Think with a much more precise approach. The real question is whether lifeless objects like computers could be said to perform these cognitive tasks; and since humans can perform these tasks non-consciously, the question could be addressed without considering whether or not the object could be conscious. The answer seems to be yes, but the problem of how to test this hypothesis still remains.
@@ -18,20 +18,10 @@ After declaring and removing the ambiguity surrounding the notion of thought and
 
 In conclusion, we can say that our understanding of thinking is derived from the naturally occurring environment surrounds us, in which only living organisms are capable of thought. With the rise of computers which is almost identical to the humans in their ability of perception, make the decision and solve problems. We must revise, as humans, our concept of thinking and decide if it is best served to include computers as a thinking object. referring to the notion of thought as highly adaptable mental processes that allow thinking objects to reason, develop analogies and revise beliefs in light of their experience. The most important thing to consider is if the well-programmed computer will more or less match our adaptability. If one day AI researchers reach the ultimate goal of developing general AI, these computers will then display the same ingenuity and purposeful thinking that we have, and more important that their behaviour will be a result of their ability to learn from experience as their program will interact in what we are referring to as reasoning, analyzing and making decisions. When we describe these acts in the same manner as we describe them when we refer to our abilities, as humans, we must conclude that it will be possible for a computer to think.
 
-#### Reference style
-Sometimes it looks too messy to include big long urls inline, or you want to keep all your urls together.  
 
-Make [a link][arbitrary_id] `[a link][arbitrary_id]` then on it's own line anywhere else in the file:  
-`[arbitrary_id]: http://macdown.uranusjr.com "Title"`
-  
-If the link text itself would make a good id, you can link [like this][] `[like this][]`, then on it's own line anywhere else in the file:  
-`[like this]: http://macdown.uranusjr.com`  
+### Referecnes
 
-[arbitrary_id]: http://macdown.uranusjr.com "Title"
-[like this]: http://macdown.uranusjr.com
-
-Brain mind and consciousness
-Turing 52 paper
+[1] *Turing, Alan M. "Can digital computers think?." The Turing Test: Verbal Behavior as the Hallmark of Intelligence (1951).*
 
 
 
