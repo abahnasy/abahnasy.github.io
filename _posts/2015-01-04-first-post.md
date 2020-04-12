@@ -1,7 +1,8 @@
 ---
 layout: post
-title: First post!
+title: Singular Value Decomposition from ML Perspective
 image: /img/hello_world.jpeg
 ---
 
-This is my first post, how exciting!
+# ML Theory Toolboox: Singular Value Decomposition
+I'm writing this series of blog posts to myself at the first place.
