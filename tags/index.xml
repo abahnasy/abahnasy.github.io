@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tags on Ahmed&#39;s Blog</title>
+    <link>http://abahnasy.github.io/tags/</link>
+    <description>Recent content in Tags on Ahmed&#39;s Blog</description>
+    <image>
+      <url>http://abahnasy.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://abahnasy.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 27 Apr 2022 02:53:25 +0200</lastBuildDate><atom:link href="http://abahnasy.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Deep Learning</title>
+      <link>http://abahnasy.github.io/tags/deep-learning/</link>
+      <pubDate>Wed, 27 Apr 2022 02:53:25 +0200</pubDate>
+      
+      <guid>http://abahnasy.github.io/tags/deep-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Graph Neural Networks</title>
+      <link>http://abahnasy.github.io/tags/graph-neural-networks/</link>
+      <pubDate>Wed, 27 Apr 2022 02:53:25 +0200</pubDate>
+      
+      <guid>http://abahnasy.github.io/tags/graph-neural-networks/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MOT Challenge</title>
+      <link>http://abahnasy.github.io/tags/mot-challenge/</link>
+      <pubDate>Wed, 27 Apr 2022 02:53:25 +0200</pubDate>
+      
+      <guid>http://abahnasy.github.io/tags/mot-challenge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Object Tracking</title>
+      <link>http://abahnasy.github.io/tags/object-tracking/</link>
+      <pubDate>Wed, 27 Apr 2022 02:53:25 +0200</pubDate>
+      
+      <guid>http://abahnasy.github.io/tags/object-tracking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>first</title>
+      <link>http://abahnasy.github.io/tags/first/</link>
+      <pubDate>Wed, 27 Apr 2022 02:41:02 +0200</pubDate>
+      
+      <guid>http://abahnasy.github.io/tags/first/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
